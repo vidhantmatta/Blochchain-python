@@ -1,5 +1,5 @@
 import block
-import blockchain
+from chain import blockchain
 
 chain = blockchain.Blockchain()
 
